@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: rgb(77, 219, 136);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+}
+p{
+    text-align: center;
+    margin-top:5cm;
+    font-size: larger;
+    font-weight:bold;
+
+}
+*{
+    color:white;
+}
+a{
+    color:rgb(77, 219, 136);
+}
+a:hover{
+    color:gray;
+}
+p{
+    text-align: center;
+}
+span{
+    color:rgb(87, 63, 63);
+    font-style: italic;
+    margin-right: 10px;
+}
